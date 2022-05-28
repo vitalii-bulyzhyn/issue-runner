@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started Example",
-  "description": "Build an Extension!",
+  "name": "Issue runner",
+  "description": "Chrome extention that allows you to switch between github issues without going back to the issues list page",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
