@@ -1,7 +1,7 @@
 {
   "name": "Issue runner",
   "description": "Chrome extention that allows you to switch between github issues without going back to the issues list page",
-  "version": "1.0",
+  "version": "0.1",
   "manifest_version": 3,
   "icons": {
     "128": "/images/IR.png" 
