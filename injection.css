@@ -1,0 +1,29 @@
+.left-position {
+  left: 50px;
+}
+
+.right-position {
+  right: 50px;
+}
+
+.next-button {
+  position: fixed;
+  top: 50vh;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: black;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  border: 1px solid black;
+}
+
+.next-button:hover {
+  background-color: white;
+  color: black;
+}
+
